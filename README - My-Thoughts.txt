@@ -1,0 +1,2 @@
+I think the code was below average and didn't follow SOLID principles at all. Although I didn't change the logic drastically, it can be made much better. The Interface Segregation Principle was missing for most of the parts. Also, the methods not related to a particular repository should be moved to a trait or helper files.  
+Rather than using so many if-else statements, we could've used switch statements or break the code into small parts to avoid having so many cases in the first place. 
